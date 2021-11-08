@@ -1,5 +1,8 @@
 # fc-globe
 
+!! Webflow pulls only Index02.html, so make changes to that file only.
+
+
 To edit the position of the globe:
 
 1. Find the class named ".globe-w" (This is the main parent wrapper for the globe graphic)
